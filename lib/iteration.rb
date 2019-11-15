@@ -39,7 +39,16 @@ def total_even_pairs(src)
   # the number was even. Review the operator documentation if you've forgotten
   # this!
   
-array_3 = []
-counter = 0 
+total = 0 
+counter = 0
 
+while counter < src.length 
+  if src [counter][0] % 2 == 0 && src[counter][1] % 2 == 0 
+    total = total + (src[counter].sum)
+    counter +=1
+  else 
+    counter +=1
+  end
+end 
+total
 end
