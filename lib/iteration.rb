@@ -23,7 +23,7 @@ def find_greater_pair(src)
   
 array_2
 counter = 0
-  while counter < src.count do 
+  while counter < src.length do 
   array_2 
   
   counter +=1
