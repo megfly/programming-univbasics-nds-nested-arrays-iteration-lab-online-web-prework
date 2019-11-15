@@ -14,6 +14,7 @@ counter = 0
   counter +=1
 end
 array_1
+end
 
 def find_greater_pair(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
