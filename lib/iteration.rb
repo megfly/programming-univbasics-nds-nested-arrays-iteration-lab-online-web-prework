@@ -12,9 +12,8 @@ counter = 0
   while counter < src.length do 
   array_1.push ("I love #{src[counter][0] and #{src[counter][1] on my pizza")
   counter +=1
-  
-array_1
 end
+array_1
 
 def find_greater_pair(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
