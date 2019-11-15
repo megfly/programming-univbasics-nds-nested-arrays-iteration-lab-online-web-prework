@@ -9,7 +9,8 @@ def join_ingredients(src)
 
 array = []
 counter = 0 
-while counter < src.length do 
+while counter < src.length
+
   
 end
 
