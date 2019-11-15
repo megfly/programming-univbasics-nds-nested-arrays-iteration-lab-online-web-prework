@@ -8,8 +8,8 @@ def join_ingredients(src)
   # As such, there should be a new String for each inner array, or pair
 
   array_1 = [
-    ["pepperoni", "sausage"]
-    ["green olives", "green peppers"]
+    ["pepperoni", "sausage"],
+    ["green olives", "green peppers"],
     ["onions", "pineapple"]
   ]
   
