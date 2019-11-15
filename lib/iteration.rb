@@ -12,6 +12,7 @@ array_1 = [
     ["green olives", "green peppers"]
     ["onions", "pineapple"]
   ]
+  
 end
 
 def find_greater_pair(src)
